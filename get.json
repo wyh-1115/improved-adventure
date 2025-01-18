@@ -1,0 +1,22 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", 
+    "Accept-Encoding": "gzip, deflate, br, zstd", 
+    "Accept-Language": "zh-CN,zh;q=0.9", 
+    "Host": "httpbin.org", 
+    "Priority": "u=0, i", 
+    "Sec-Ch-Ua": "\"Chromium\";v=\"9\", \"Not?A_Brand\";v=\"8\"", 
+    "Sec-Ch-Ua-Mobile": "?0", 
+    "Sec-Ch-Ua-Platform": "\"Windows\"", 
+    "Sec-Fetch-Dest": "document", 
+    "Sec-Fetch-Mode": "navigate", 
+    "Sec-Fetch-Site": "none", 
+    "Sec-Fetch-User": "?1", 
+    "Upgrade-Insecure-Requests": "1", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.5.12181 SLBChan/105 SLBVPV/64-bit", 
+    "X-Amzn-Trace-Id": "Root=1-678b9a2b-08f19f2779e0ebb86a6c1c1e"
+  }, 
+  "origin": "111.41.112.167", 
+  "url": "https://httpbin.org/get"
+}
